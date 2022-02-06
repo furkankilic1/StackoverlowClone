@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\bin\Debug\net5.0\Stackoverflow.Domain.deps.json
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\bin\Debug\net5.0\Stackoverflow.Domain.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\bin\Debug\net5.0\ref\Stackoverflow.Domain.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\bin\Debug\net5.0\Stackoverflow.Domain.pdb
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\bin\Debug\net5.0\Stackoverflow.Core.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\bin\Debug\net5.0\Stackoverflow.Core.pdb
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.csproj.CopyComplete
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\ref\Stackoverflow.Domain.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Domain\obj\Debug\net5.0\Stackoverflow.Domain.pdb

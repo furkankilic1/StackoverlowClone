@@ -1,0 +1,12 @@
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\bin\Debug\net5.0\Stackoverflow.Core.deps.json
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\bin\Debug\net5.0\Stackoverflow.Core.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\bin\Debug\net5.0\ref\Stackoverflow.Core.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\bin\Debug\net5.0\Stackoverflow.Core.pdb
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\Stackoverflow.Core.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\Stackoverflow.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\Stackoverflow.Core.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\Stackoverflow.Core.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\Stackoverflow.Core.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\Stackoverflow.Core.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\ref\Stackoverflow.Core.dll
+C:\Users\Furkan\Desktop\StackoverflowServer\StackoverflowServer\Stackoverflow.Core\obj\Debug\net5.0\Stackoverflow.Core.pdb
