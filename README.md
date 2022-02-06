@@ -32,3 +32,8 @@ When you click on a question in the Questions page, it directs to the Answers pa
 # Api Endpoints
 ![ApplicationFrameHost_hY8hwI5jE6](https://user-images.githubusercontent.com/58864953/152694435-9b42cce9-935d-49ec-8959-a8ea268e47af.png)
 * ***
+# Database 
+![Ssms_7BRcy4q30O](https://user-images.githubusercontent.com/58864953/152695157-6d4ee686-2260-4d78-93b6-cb5fbd99ad88.png)
+![Ssms_7Frv4LNpHH](https://user-images.githubusercontent.com/58864953/152695158-8708fb6e-5d2b-4d63-95a7-da71d7ed44b6.png)
+* ***
+
