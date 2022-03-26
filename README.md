@@ -1,7 +1,6 @@
 # StackoverlowClone
 
 ## It is a Stackoverlow kind an application that you can add questions and answers.
-* You can reach the deployed project using http://rakletstackoverflowcloneapp.herokuapp.com/ link.
 * The client side is coded using React.
 * The server side is coded using C# ASP.NET Web API.
 
